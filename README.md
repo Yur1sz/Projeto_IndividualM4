@@ -1,3 +1,4 @@
+![Projeto_M4](https://user-images.githubusercontent.com/112434743/215634188-f36b41bc-5355-4c07-8639-ebcee1f77142.png)
 
 <h2> Contexto: </h2>
 A Resilia está pensando em lançar um novo sistema de
